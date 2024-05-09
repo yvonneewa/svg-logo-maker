@@ -32,6 +32,18 @@ Logo Maker is a tool for web developers to create simple logos easily. It runs i
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+Video walk throughs
+
+Making the SVG Logo:
+
+https://icecreamapps.com/v/bcxn6c8
+
+
+Testing the shapes:
+
+ https://icecreamapps.com/v/ed6rmx9
+
+
 
 ## Credits
 
